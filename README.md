@@ -22,7 +22,7 @@ I'm currently working on building small, impactful projects to combine my financ
 ### 📌 Sample Projects
 - **Sales-Finance-Analytics** using Excel with formulas
 - **Business Insights 360** in power BI with formulas & charts  
-- **Ad-Hoc SQL Analytics** for business datasets  
+
 
 
 ---

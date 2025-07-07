@@ -32,7 +32,7 @@ I'm currently working on building small, impactful projects to combine my financ
 I’m looking to grow in roles like:
 - Data Analyst
 - Financial Analyst 
-- BI Developer 
+
 
 I'm excited to keep learning, building, and growing!
 
